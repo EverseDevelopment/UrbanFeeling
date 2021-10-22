@@ -2,6 +2,9 @@
 
 An audiovisual project to create senses based on perceptions of cities around the world
 
+[<img src="https://github.com/EverseDevelopment/UrbanFeeling/blob/main/Assets/UrbanFeeling.png" width="443" height="166">](https://github.com/EverseDevelopment/UrbanFeeling/wiki)
+<br/>
+
 ## Getting Started
 Audio: We are currently using Orca, an esoteric programming language to project sounds
 
