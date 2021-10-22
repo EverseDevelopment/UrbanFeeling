@@ -9,10 +9,10 @@ An audiovisual project to create senses based on perceptions of cities around th
 You can go to the current Urban feeling website
 
 ## How it works
-1- We obtain multiple parameters like Temperature, Humidity, Season, Population, Security, etc of the selected city
-2- Information is transform into feelings
-3- We use those feelings to feed an AI model for Audio and Video
-4- We generate an esoteric composition that will take your state of mind to the selected city
+1- We obtain multiple parameters like Temperature, Humidity, Season, Population, Security, etc of the selected city<br/>
+2- Information is transform into feelings<br/>
+3- We use those feelings to feed an AI model for Audio and Video<br/>
+4- We generate an esoteric composition that will take your state of mind to the selected city<br/>
 
 
 ## Contributors
