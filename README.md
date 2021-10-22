@@ -2,7 +2,7 @@
 
 An audiovisual project to create senses based on perceptions of cities around the world
 
-[<img src="https://github.com/EverseDevelopment/UrbanFeeling/blob/main/Assets/UrbanFeeling.png" width="865" height="193">](https://github.com/EverseDevelopment/UrbanFeeling/wiki)
+[<img src="https://github.com/EverseDevelopment/UrbanFeeling/blob/main/Assets/UrbanFeeling.png" width="778" height="173">](https://github.com/EverseDevelopment/UrbanFeeling/wiki)
 <br/>
 
 ## Getting Started
