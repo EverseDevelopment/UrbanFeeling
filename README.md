@@ -6,9 +6,13 @@ An audiovisual project to create senses based on perceptions of cities around th
 <br/>
 
 ## Getting Started
-Audio: We are currently using Orca, an esoteric programming language to project sounds
+You can go to the current Urban feeling website
 
-## Current Version
+## How it works
+1- We obtain multiple parameters like Temperature, Humidity, Season, Population, Security, etc of the selected city
+2- Information is transform into feelings
+3- We use those feelings to feed an AI model for Audio and Video
+4- We generate an esoteric composition that will take your state of mind to the selected city
 
 
 ## Contributors
